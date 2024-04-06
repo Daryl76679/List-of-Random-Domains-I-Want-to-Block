@@ -69,3 +69,4 @@ watson.telemetry.microsoft.com
 *.events.data.microsoft.com
 spclient.wg.spotify.com
 *.mtgglobals.com
+app-analytics-services.com
