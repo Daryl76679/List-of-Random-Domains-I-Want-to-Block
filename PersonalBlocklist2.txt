@@ -70,4 +70,4 @@ watson.telemetry.microsoft.com
 spclient.wg.spotify.com
 *.mtgglobals.com
 app-analytics-services.com
-account.api.here.com
+
